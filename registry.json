@@ -149,5 +149,17 @@
     "github_repo": "odytsek/Twilight-cleric",
     "repo_url": "https://odytsek.github.io/Twilight-cleric/",
     "has_system": false
+  },
+  {
+    "name": "One-piece-inspired-pack",
+    "description": "Classes, races, feats (to show Haki), items (like devil fruits), and seastone weapons inspired by the One Piece franchise.",
+    "tags": [
+      "5e",
+      "one-piece"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/One-piece-inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/One-piece-inspired-pack/",
+    "has_system": false
   }
 ]
