@@ -161,5 +161,16 @@
     "github_repo": "Violetwolf003-beep/One-piece-inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/One-piece-inspired-pack/",
     "has_system": false
+  },
+  {
+    "name": "Plague-doctor-pack",
+    "description": "A class, background and items inspired by a plague doctor.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Plague-doctor-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Plague-doctor-pack/",
+    "has_system": false
   }
 ]
