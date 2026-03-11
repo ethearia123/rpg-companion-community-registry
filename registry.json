@@ -183,5 +183,17 @@
     "github_repo": "Violetwolf003-beep/Weapon-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Weapon-pack/",
     "has_system": false
+  },
+  {
+    "name": "Street-Fighter-pack",
+    "description": "A class, background, and mobs inspired by the Street Fighter franchise.",
+    "tags": [
+      "5e",
+      "street-fighter"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Street-Fighter-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Street-Fighter-pack/",
+    "has_system": false
   }
 ]
