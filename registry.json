@@ -549,5 +549,16 @@
     "github_repo": "ThrawnIsAlive/Treantmonk-s-Homebrew-Ranger-Buffs",
     "repo_url": "https://ThrawnIsAlive.github.io/Treantmonk-s-Homebrew-Ranger-Buffs/",
     "has_system": false
+  },
+  {
+    "name": "leonin-species",
+    "description": "this is the leonin race from 5e",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "ethearia123/leonin-species",
+    "repo_url": "https://ethearia123.github.io/leonin-species/",
+    "has_system": false
   }
 ]
